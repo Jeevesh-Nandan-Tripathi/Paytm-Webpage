@@ -1,5 +1,5 @@
 # Paytm-Webpage
-This responsive clone webpage is designed by HTMl, CSS, Tailwind
+This responsive clone webpage is designed by HTML, CSS, Tailwind
 
 Video Link
 
